@@ -1,0 +1,1 @@
+# primeiro-swa-statico
